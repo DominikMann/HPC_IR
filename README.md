@@ -1,5 +1,5 @@
 # HPC_IR
-Incident Reponse Script for High Performance Computing Clusters. This script was developed during the High-Performance-Computing System Administration seminar (https://hps.vi4io.org/teaching/autumn_term_2022/hpcsa).
+Incident Reponse Script for High Performance Computing Clusters. This script was developed for the High-Performance-Computing System Administration seminar (https://hps.vi4io.org/teaching/autumn_term_2022/hpcsa).
 
 # Instructions:
 1. Ensure the script is executable, run "chmod +x <script_name>"
